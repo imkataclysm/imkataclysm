@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katherine! QA Tester from California.
+- 👋 Hi, I’m Kat! QA Tester from California.
 - 👀 I’m interested in Video Games.
 - 🌱 I’m currently learning Software QA Engineer.
 - ⚡ I’m using github for personal projects.
