@@ -14,7 +14,7 @@
 
 ## 🛠️ Projects
 - [Simple Test Cases](https://github.com/imkataclysm/qa-manual-tests.git)
-- [Bug Report Samples](https://github.com/yourname/project-link)
+- [Bug Report Samples](https://github.com/imkataclysm/bug-report-samples)
 - [Learning Python Scripts](https://github.com/yourname/project-link)
 
 - 📫 How to reach me katherinerosebusiness@gmail.com
