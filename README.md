@@ -13,7 +13,7 @@
 - Languages: Python (beginner)
 
 ## 🛠️ Projects
-- [Simple Test Cases](https://github.com/yourname/project-link)
+- [Simple Test Cases]([https://github.com/yourname/project-link](https://github.com/imkataclysm/qa-manual-tests.git)
 - [Bug Report Samples](https://github.com/yourname/project-link)
 - [Learning Python Scripts](https://github.com/yourname/project-link)
 
