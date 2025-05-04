@@ -1,4 +1,4 @@
-- # Hi, I’m Katherine! 👋
+# Hi, I’m Katherine! 👋
 
 🌱 Aspiring QA Software Engineer | Learning Python  
 🧪 Passionate about testing, automation, and quality  
