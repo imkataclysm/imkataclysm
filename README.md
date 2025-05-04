@@ -4,6 +4,7 @@
 🧪 Passionate about testing, automation, and quality  
 🚀 Currently studying for ISTQB certification  
 📚 Always learning and building real-world skills
+
 ⚡ I’m using github for personal projects
 
 ## 🔧 Tech Stack
