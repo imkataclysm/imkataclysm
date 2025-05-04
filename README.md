@@ -17,6 +17,8 @@
 - [Test Cases Samples](https://github.com/imkataclysm/qa-manual-tests.git)
 - [Bug Report Samples](https://github.com/imkataclysm/bug-report-samples)
 - [Test Plans Samples](https://github.com/imkataclysm/-test-plans)
+
+⚙️ Automation / Technical
 - [Learning Python Scripts](https://github.com/imkataclysm/python-practice)
 
 📫 How to reach me katherinerosebusiness@gmail.com
