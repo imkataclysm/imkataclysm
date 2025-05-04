@@ -18,6 +18,7 @@
 - [Bug Report Samples](https://github.com/imkataclysm/bug-report-samples)
 - [Test Plans Samples](https://github.com/imkataclysm/-test-plans)
 - [Checklist Sample](https://github.com/imkataclysm/checklists-sample/tree/main)
+- [Report Sample](https://github.com/imkataclysm/report-sample/tree/main)
 
 ⚙️ Automation / Technical
 - [Learning Python Scripts](https://github.com/imkataclysm/python-practice)
