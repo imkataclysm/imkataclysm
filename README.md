@@ -13,7 +13,7 @@
 - Languages: Python (beginner)
 
 ## 🛠️ Projects
-- [Simple Test Cases](https://github.com/imkataclysm/qa-manual-tests.git)
+- [Test Cases Samples](https://github.com/imkataclysm/qa-manual-tests.git)
 - [Bug Report Samples](https://github.com/imkataclysm/bug-report-samples)
 - [Learning Python Scripts](https://github.com/imkataclysm/python-practice)
 
