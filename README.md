@@ -12,8 +12,8 @@
 - Tools: JIRA, Git, Postman (learning)  
 - Languages: Python (beginner)
 
-## 🛠️ Projects
-🧪 Manual QA Portfolio 
+## 🛠️ Projects/Portfolio
+🧪 Manual QA 
 - [Test Cases](https://github.com/imkataclysm/qa-manual-tests.git)
 - [Bug Report](https://github.com/imkataclysm/bug-report-samples)
 - [Test Plans](https://github.com/imkataclysm/-test-plans)
