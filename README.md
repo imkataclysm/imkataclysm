@@ -22,7 +22,6 @@
 
 ⚙️ Automation / Technical
 - [Python Scripts](https://github.com/imkataclysm/python-practice)
-- [API Tests](https://github.com/imkataclysm/api-test-case/tree/main)
 - [SQL-Queries]
 - [Tools]
 
