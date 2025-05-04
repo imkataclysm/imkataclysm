@@ -22,7 +22,6 @@
 
 ⚙️ Automation / Technical
 - [Python Scripts](https://github.com/imkataclysm/python-practice)
-- [SQL-Queries]
 - [Tools]
 
 📫 How to reach me katherinerosebusiness@gmail.com
