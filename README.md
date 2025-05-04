@@ -13,15 +13,18 @@
 - Languages: Python (beginner)
 
 ## 🛠️ Projects
-🧪 Manual QA Portfolio Ideas
-- [Test Cases Samples](https://github.com/imkataclysm/qa-manual-tests.git)
-- [Bug Report Samples](https://github.com/imkataclysm/bug-report-samples)
-- [Test Plans Samples](https://github.com/imkataclysm/-test-plans)
-- [Checklist Sample](https://github.com/imkataclysm/checklists-sample/tree/main)
-- [Report Sample](https://github.com/imkataclysm/report-sample/tree/main)
+🧪 Manual QA Portfolio 
+- [Test Cases](https://github.com/imkataclysm/qa-manual-tests.git)
+- [Bug Report](https://github.com/imkataclysm/bug-report-samples)
+- [Test Plans](https://github.com/imkataclysm/-test-plans)
+- [Checklist](https://github.com/imkataclysm/checklists-sample/tree/main)
+- [Report](https://github.com/imkataclysm/report-sample/tree/main)
 
 ⚙️ Automation / Technical
-- [Learning Python Scripts](https://github.com/imkataclysm/python-practice)
+- [Python Scripts](https://github.com/imkataclysm/python-practice)
+- [API Tests]
+- [SQL-Queries]
+- [Tools]
 
 📫 How to reach me katherinerosebusiness@gmail.com
 
